@@ -20,7 +20,7 @@ function palindromePermutation (aString){
     *A palindrome is a word or phrase that is the same forwards and backwards.
     *A permutation is a rearrangement of letters.
     *The palindrome does not need to be limited to just dictionary words.
-    */
+    
 
     //turn the string into an array
     var anArray = aString.split();
@@ -42,3 +42,4 @@ function palindromePermutation (aString){
     palindromePermutation('aba');
     palindromePermutation('abba');
     palindromePermutation('a b');*/
+*/
